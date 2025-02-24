@@ -25,7 +25,7 @@ A modern YouTube video downloader with a clean GUI built using PyQt5. Download v
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/mahostar/youtube-downloader
 cd youtube-downloader
 ```
 
@@ -38,7 +38,9 @@ pip install -r requirements.txt
 3. Download FFmpeg:
 
 Go to https://github.com/BtbN/FFmpeg-Builds/releases
+
 Download ffmpeg-master-latest-win64-gpl.zip
+
 Extract the zip file and copy the ffmpeg.exe file to the root directory of the project
 
 ## Usage
