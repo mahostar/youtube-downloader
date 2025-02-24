@@ -2,6 +2,10 @@
 
 A modern YouTube video downloader with a clean GUI built using PyQt5. Download videos in various qualities and convert them to MP3.
 
+<div align="center">
+  <img src="screenshots/app.png" alt="Application Screenshot" width="800"/>
+</div>
+
 ## Features
 
 - Download YouTube videos in multiple quality options (144p to 1080p)
